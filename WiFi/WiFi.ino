@@ -1,7 +1,7 @@
 #include <WiFi.h>
  
-const char* ssid = "TP-Link_CCE2";
-const char* password = "51144463";
+const char* ssid = "Wifi_Name"; //Ex.: TP-Link_CCE7
+const char* password = "Senha"; //51144485
 int LED = 2;
 WiFiServer server(80);
  
